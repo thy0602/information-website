@@ -34,8 +34,6 @@ img {
   transition: 1s;
   width: 450px;
   height: 350px;
-  /* margin-top: 3%; */
-  /* margin-left: 10%; */
   margin-right: 50px;
   display: flex;
   align-items: center;
@@ -50,8 +48,6 @@ img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   width: 450px;
   height: 50px;
-  /* margin-top: 3%; */
-  /* margin-left: 20%; */
   padding-left: 5%;
   display: flex;
   align-items: center;
@@ -69,15 +65,11 @@ img {
 
 h2 {
   text-align: center;
-  /* margin-left: 20%; */
 }
 
 .card-info-group {
-  /* margin-right: 10%; */
   width: 500px;
   margin-left: 50px;
-  /* height: 70%; */
-  /* background-color: red; */
 }
 
 .card-stuff {
@@ -86,8 +78,6 @@ h2 {
   justify-content: center;
   width: 100%;
   margin-top: 50px;
-  /* height: 70%; */
-  /* background-color: blue; */
 }
 
 p {
